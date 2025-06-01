@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I'm <strong>Fajri</strong></span> from South Sumatera, Indonesia<br><br>- 📚 I'm currently learning Laravel and NextJS<br>- ⚡  In my free ti me I enjoy exploring new tech tools</p>
+<p align="left">I'm <strong>Fajri</strong></span> from South Sumatera, Indonesia<br><br>- 📚 I'm currently learning Laravel and NextJS<br>- ⚡  In my free time I enjoy exploring new tech tools</p>
 
 ###
 
