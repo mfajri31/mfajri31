@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="250" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 ###
@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm <strong>Fajri</strong></span> from Sumatera Selatan Indonesia<br><br>- 📚 I'm currently learning Laravel and NextJS<br>- ⚡  In my free time I enjoy exploring new tech tools</p>
+<p align="left">I'm <strong>Fajri</strong></span> from South Sumatera, Indonesia<br><br>- 📚 I'm currently learning Laravel and NextJS<br>- ⚡  In my free ti me I enjoy exploring new tech tools</p>
 
 ###
 
