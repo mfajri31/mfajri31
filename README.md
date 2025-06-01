@@ -16,11 +16,11 @@
 
 ###
 
-<h1 align="left" style="color:darkblue">Hello World 👋</h1>
+<h1 align="left">Hello World 👋</h1>
 
 ###
 
-<h5 align="left">I'm <span style="color:darkblue">Fajri</span> from Sumatera Selatan Indonesia<br><br>- 📚 I'm currently learning Laravel and NextJS<br>- ⚡  In my free time I enjoy exploring new tech tools</h5>
+<p align="left">I'm <strong>Fajri</strong></span> from Sumatera Selatan Indonesia<br><br>- 📚 I'm currently learning Laravel and NextJS<br>- ⚡  In my free time I enjoy exploring new tech tools</p>
 
 ###
 
